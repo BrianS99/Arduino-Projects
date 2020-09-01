@@ -5,7 +5,7 @@ The videos of each of these projects working is on my [Google Drive](https://dri
 
 How to Run
 ---
-These codes can be directly copied into the Arduino IDE, and uploaded onto an Arduino microcontroller board. You will need certain common components that can be obtained online such as servo motors, LED lights, 5V DC motors, jumper wires, male to female jumpers, supersonic sonars, resistors, a breadboard, and an LCD display. Some projects also involved cardboard cutting to create a mechanical frame.
+These codes can be directly copied into the Arduino IDE, and uploaded onto an Arduino microcontroller board. You will need certain common components that can be obtained online such as servo motors, LED lights, 5V DC motors, jumper wires, male to female jumpers, supersonic sonars, a 4x4 keypad, a buzzer, resistors, a breadboard, and an LCD display. Some projects also involved cardboard cutting to create a mechanical frame.
 
 Author
 ---
